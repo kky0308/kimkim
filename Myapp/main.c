@@ -6,5 +6,5 @@ int main(){
 	foo1();
 	foo2();
 	foo1();
-	foo2(); //fixed bug
+	foo2(); //fixed print error
 }
